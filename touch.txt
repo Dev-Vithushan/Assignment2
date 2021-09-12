@@ -1,0 +1,3 @@
+Created the repository name called as Software-Project => https://github.com/Dev-Vithushan/Software-Project.git
+Added the members  => settings->Manage access->invite a collaborator.
+
